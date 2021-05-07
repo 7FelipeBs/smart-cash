@@ -1,0 +1,5 @@
+package com.felipebs.vitalarca.publico.user;
+
+public class Usuario {
+
+}

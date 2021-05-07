@@ -1,0 +1,9 @@
+package com.felipebs.vitalarca.publico.user.login;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class UsuarioServico {
+	
+	
+}
